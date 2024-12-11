@@ -9,7 +9,7 @@
             "complex_modifications": {
                 "rules": [
                     {
-                        "description": "(Vim 1/11) esc -> on (no Emacs/Safari), caps_lock, esc, control+[ or any pointing_button -> off",
+                        "description": "(Vim 1/11) esc -> on (no Emacs/Safari)",
                         "manipulators": [
                             {
                                 "conditions": [
@@ -20,7 +20,7 @@
                                             "com.jetbrains.pycharm",
                                             "com.visualstudio.code.oss",
                                             "^org\\.gnu\\.Emacs$",
-                                            "^Alfred$",
+                                            "^com\\.runningwithcrayons\\.Alfred$",
                                             "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -72,6 +72,7 @@
                                             "com.jetbrains.pycharm",
                                             "com.visualstudio.code.oss",
                                             "^org\\.gnu\\.Emacs$",
+                                            "^com\\.runningwithcrayons\\.Alfred$",
                                             "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -102,6 +103,7 @@
                                             "com.jetbrains.pycharm",
                                             "com.visualstudio.code.oss",
                                             "^org\\.gnu\\.Emacs$",
+                                            "^com\\.runningwithcrayons\\.Alfred$",
                                             "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -132,6 +134,7 @@
                                             "com.jetbrains.pycharm",
                                             "com.visualstudio.code.oss",
                                             "^org\\.gnu\\.Emacs$",
+                                            "^com\\.runningwithcrayons\\.Alfred$",
                                             "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -165,6 +168,7 @@
                                             "com.jetbrains.pycharm",
                                             "com.visualstudio.code.oss",
                                             "^org\\.gnu\\.Emacs$",
+                                            "^com\\.runningwithcrayons\\.Alfred$",
                                             "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_if"
