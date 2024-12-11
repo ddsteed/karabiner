@@ -9,7 +9,7 @@
             "complex_modifications": {
                 "rules": [
                     {
-                        "description": "(Vim 1/11) esc -> on, caps_lock, esc, control+[ or any pointing_button -> off",
+                        "description": "(Vim 1/11) esc -> on (no Emacs), caps_lock, esc, control+[ or any pointing_button -> off",
                         "manipulators": [
                             {
                                 "conditions": [
