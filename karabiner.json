@@ -9,7 +9,7 @@
             "complex_modifications": {
                 "rules": [
                     {
-                        "description": "(Vim 1/11) esc -> on (no Emacs), caps_lock, esc, control+[ or any pointing_button -> off",
+                        "description": "(Vim 1/11) esc -> on (no Emacs/Safari), caps_lock, esc, control+[ or any pointing_button -> off",
                         "manipulators": [
                             {
                                 "conditions": [
@@ -19,7 +19,8 @@
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
                                             "com.visualstudio.code.oss",
-                                            "^org\\.gnu\\.Emacs$"
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3215,7 +3216,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             },
                             {
                                 "conditions": [
@@ -3250,7 +3251,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             },
                             {
                                 "conditions": [
@@ -3278,7 +3279,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             },
                             {
                                 "conditions": [
@@ -3313,7 +3314,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             },
                             {
                                 "conditions": [
@@ -3346,7 +3347,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             },
                             {
                                 "conditions": [
@@ -3383,7 +3384,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             }
                         ]
                     },
@@ -3417,7 +3418,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             },
                             {
                                 "conditions": [
@@ -3446,7 +3447,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             },
                             {
                                 "conditions": [
@@ -3475,7 +3476,7 @@
                                         }
                                     }
                                 ],
-                              "type": "basic"
+                                "type": "basic"
                             }
                         ]
                     },
