@@ -20,6 +20,7 @@
                                             "com.jetbrains.pycharm",
                                             "com.visualstudio.code.oss",
                                             "^org\\.gnu\\.Emacs$",
+                                            "^Alfred$",
                                             "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -69,7 +70,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -97,7 +100,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -125,7 +130,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -156,7 +163,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_if"
                                     },
@@ -238,7 +247,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -277,7 +288,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -311,7 +324,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -337,7 +352,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -363,7 +380,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -389,7 +408,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -415,7 +436,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -441,7 +464,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -467,7 +492,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -497,7 +524,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -526,7 +555,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -555,7 +586,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -599,7 +632,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -636,7 +671,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -665,7 +702,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -694,7 +733,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -723,7 +764,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -761,7 +804,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -799,7 +844,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -837,7 +884,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -872,7 +921,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -896,7 +947,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -920,7 +973,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -949,7 +1004,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -993,7 +1050,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1042,7 +1101,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1083,7 +1144,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1124,7 +1187,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1169,7 +1234,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1213,7 +1280,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1257,7 +1326,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1312,7 +1383,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1353,7 +1426,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1397,7 +1472,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1441,7 +1518,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1486,7 +1565,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1530,7 +1611,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1579,7 +1662,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1620,7 +1705,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1661,7 +1748,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1706,7 +1795,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1750,7 +1841,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1794,7 +1887,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1849,7 +1944,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1890,7 +1987,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1934,7 +2033,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -1978,7 +2079,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2027,7 +2130,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2071,7 +2176,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2126,7 +2233,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2173,7 +2282,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2220,7 +2331,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2271,7 +2384,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2321,7 +2436,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2371,7 +2488,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2426,7 +2545,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2473,7 +2594,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2523,7 +2646,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2573,7 +2698,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2628,7 +2755,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2649,7 +2778,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2673,7 +2804,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2699,7 +2832,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2728,7 +2863,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2754,7 +2891,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2788,7 +2927,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2812,7 +2953,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2836,7 +2979,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2860,7 +3005,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2884,7 +3031,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2910,7 +3059,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2936,7 +3087,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2966,7 +3119,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -2995,7 +3150,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3024,7 +3181,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3068,7 +3227,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3105,7 +3266,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3134,7 +3297,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3163,7 +3328,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3197,7 +3364,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3225,7 +3394,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3260,7 +3431,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3288,7 +3461,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3323,7 +3498,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3356,7 +3533,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3398,7 +3577,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3427,7 +3608,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3456,7 +3639,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3490,7 +3675,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3514,7 +3701,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3538,7 +3727,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3562,7 +3753,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3586,7 +3779,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3610,7 +3805,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3634,7 +3831,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3658,7 +3857,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
@@ -3682,7 +3883,9 @@
                                             "com.googlecode.iterm2",
                                             "com.github.atom",
                                             "com.jetbrains.pycharm",
-                                            "com.visualstudio.code.oss"
+                                            "com.visualstudio.code.oss",
+                                            "^org\\.gnu\\.Emacs$",
+                                            "^com\\.apple\\.Safari$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     },
